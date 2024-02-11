@@ -1,0 +1,210 @@
+For PC1
+Packet Tracer PC Command Line 1.0
+C:\>ping 172.31.0.254
+
+Pinging 172.31.0.254 with 32 bytes of data:
+
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 172.31.0.254:
+Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\>ping 172.31.0.254
+
+Pinging 172.31.0.254 with 32 bytes of data:
+
+Reply from 172.31.0.254: bytes=32 time=2ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+
+Ping statistics for 172.31.0.254:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 1ms, Maximum = 2ms, Average = 1ms
+
+C:\>ping 172.31.0.254
+
+Pinging 172.31.0.254 with 32 bytes of data:
+
+Reply from 172.31.0.254: bytes=32 time=26ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+
+Ping statistics for 172.31.0.254:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 1ms, Maximum = 26ms, Average = 7ms
+
+C:\>ping 172.31.1.190
+
+Pinging 172.31.1.190 with 32 bytes of data:
+
+Request timed out.
+Reply from 172.31.1.190: bytes=32 time=7ms TTL=125
+Reply from 172.31.1.190: bytes=32 time=3ms TTL=125
+Reply from 172.31.1.190: bytes=32 time=2ms TTL=125
+
+Ping statistics for 172.31.1.190:
+Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 2ms, Maximum = 7ms, Average = 4ms
+
+C:\>ping 172.31.1.190
+
+Pinging 172.31.1.190 with 32 bytes of data:
+
+Reply from 172.31.1.190: bytes=32 time=12ms TTL=125
+Reply from 172.31.1.190: bytes=32 time=2ms TTL=125
+Reply from 172.31.1.190: bytes=32 time=2ms TTL=125
+Reply from 172.31.1.190: bytes=32 time=2ms TTL=125
+
+Ping statistics for 172.31.1.190:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 2ms, Maximum = 12ms, Average = 4ms
+
+
+For PC2:
+Packet Tracer PC Command Line 1.0
+C:\>ping 172.31.0.254
+
+Pinging 172.31.0.254 with 32 bytes of data:
+
+Reply from 172.31.0.254: bytes=32 time=18ms TTL=128
+Reply from 172.31.0.254: bytes=32 time=6ms TTL=128
+Reply from 172.31.0.254: bytes=32 time=19ms TTL=128
+Reply from 172.31.0.254: bytes=32 time=7ms TTL=128
+
+Ping statistics for 172.31.0.254:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 6ms, Maximum = 19ms, Average = 12ms
+
+C:\>ping 172.31.1.126
+
+Pinging 172.31.1.126 with 32 bytes of data:
+
+Reply from 172.31.1.126: bytes=32 time=1ms TTL=126
+Reply from 172.31.1.126: bytes=32 time=5ms TTL=126
+Reply from 172.31.1.126: bytes=32 time=1ms TTL=126
+Reply from 172.31.1.126: bytes=32 time=1ms TTL=126
+
+Ping statistics for 172.31.1.126:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 1ms, Maximum = 5ms, Average = 2ms
+
+C:\>ping 172.31.1.190
+
+Pinging 172.31.1.190 with 32 bytes of data:
+
+Reply from 172.31.1.190: bytes=32 time=9ms TTL=126
+Reply from 172.31.1.190: bytes=32 time=11ms TTL=126
+Reply from 172.31.1.190: bytes=32 time=1ms TTL=126
+Reply from 172.31.1.190: bytes=32 time=14ms TTL=126
+
+Ping statistics for 172.31.1.190:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 1ms, Maximum = 14ms, Average = 8ms
+
+
+For PC3:
+Packet Tracer PC Command Line 1.0
+C:\>ping 172.31.1.126
+Pinging 172.31.1.126 with 32 bytes of data:
+
+Reply from 172.31.1.126: bytes=32 time=3ms TTL=125
+Reply from 172.31.1.126: bytes=32 time=2ms TTL=125
+Reply from 172.31.1.126: bytes=32 time=12ms TTL=125
+Reply from 172.31.1.126: bytes=32 time=2ms TTL=125
+
+Ping statistics for 172.31.1.126:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 2ms, Maximum = 12ms, Average = 4ms
+
+C:\>ping 172.31.0.254
+
+Pinging 172.31.0.254 with 32 bytes of data:
+
+Reply from 172.31.0.254: bytes=32 time=4ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=2ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+Reply from 172.31.0.254: bytes=32 time=1ms TTL=126
+
+Ping statistics for 172.31.0.254:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 1ms, Maximum = 4ms, Average = 2ms
+
+
+
+
+
+
+For Router R1:
+
+R1>en        
+R1#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#ip route 172.31.0.0 255.255.255.0 172.31.1.193
+R1(config)#ip route 172.31.1.196 255.255.255.252 172.31.1.193
+R1(config)#ip route 172.31.1.128 255.255.255.192 172.31.1.193
+R1(config)#end
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
+R1#show ip route static
+     172.31.0.0/16 is variably subnetted, 7 subnets, 5 masks
+S       172.31.0.0/24 [1/0] via 172.31.1.193
+S       172.31.1.128/26 [1/0] via 172.31.1.193
+S       172.31.1.196/30 [1/0] via 172.31.1.193
+
+
+R1#
+R1#
+
+
+For Router R2:
+R2#en
+R2#conf t
+Enter configuration commands, one per line. End with CNTL/Z.
+R2(config)#ip route 172.31.1.0 255.255.255.128 s0/0/0
+R2(config)#ip route 172.31.1.128 255.255.255.192 s0/0/1
+R2(config)#end
+R2#
+%SYS-5-CONFIG_I: Configured from console by console
+
+
+R2#show ip route static
+172.31.0.0/16 is variably subnetted, 8 subnets, 5 masks
+S 172.31.1.0/25 is directly connected, Serial0/0/0
+S 172.31.1.128/26 is directly connected, Serial0/0/1
+
+
+R2#
+
+
+
+
+For Router R3:
+R3>en
+R3#conf t
+Enter configuration commands, one per line. End with CNTL/Z.
+R3(config)#ip route 0.0.0.0 0.0.0.0 s0/0/1
+%Default route without gateway, if not a point-to-point interface, may impact performance
+R3(config)#end
+R3#
+%SYS-5-CONFIG_I: Configured from console by console
+
+
+R3#show ip route static
+S* 0.0.0.0/0 is directly connected, Serial0/0/1
+
+
+R3#
